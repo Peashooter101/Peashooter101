@@ -18,7 +18,7 @@ I used to work in the US Air Force as a Hydrualics Systems Maintenance Technicia
 
 🌱 I’m currently learning Unsupervised Machine Learning and AutoEncoders in an Internship!
 
-💬 Ask me about a Minecraft Server owned and developed by my friend [Rhythmic](https://github.com/illogicalsong) and I!
+💬 Ask me about a Minecraft Server owned and developed by my friend [Rhythmic](https://github.com/RhythmicSys) and I!
 
 ⚡ Fun fact: *The FitnessGram™ Pacer Test is a multistage aerobic capacity test that progressively gets more difficult as it continues.*
 

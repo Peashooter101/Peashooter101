@@ -14,7 +14,7 @@ I used to work in the US Air Force as a Hydrualics Systems Maintenance Technicia
 
 ## GitHub's "Ideas To Get You Started"
 
-🔭 I’m currently working on random projects with a friend.
+🔭 I’m currently working on a personal Discord bot using the [Java Discord API](https://jda.wiki/) and random Minecraft Plugins.
 
 🌱 I’m currently learning Unsupervised Machine Learning and AutoEncoders in an Internship!
 

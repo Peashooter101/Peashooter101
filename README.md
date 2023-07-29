@@ -1,9 +1,5 @@
 # 👋 Welcome Everyone! My name is Peashooter101!
 
-> **Warning**
-> 
-> I recently found out that these cool GitHub specific markdown stuff is here, so I want to use them... A lot...
-
 I am a student currently studying for a Bachelor's of Computer Science. I like [Minecraft](https://www.minecraft.net/en-us) far too much and you will catch me on a few other video games like [Valorant](https://playvalorant.com/en-us/) and [Genshin Impact](https://genshin.hoyoverse.com/en/). While video games are clearly a huge interest in my life, I actually want to find my way into Software Engineering or Cyber Security.
 
 I used to work in the US Air Force as a Hydrualics Systems Maintenance Technician for the [KC-135 Stratotanker](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/1529736/kc-135-stratotanker/). Y'know, the flying gas stations in the sky!
@@ -14,9 +10,9 @@ I used to work in the US Air Force as a Hydrualics Systems Maintenance Technicia
 
 ## GitHub's "Ideas To Get You Started"
 
-🔭 I’m currently working on a personal Discord bot using the [Java Discord API](https://jda.wiki/), a Minecraft Server (play.creators-smp.com), and random Minecraft Plugins as a part of [ADHDMC](https://github.com/ADHDMC).
+🔭 I’m currently working on a personal Discord bot using the [Java Discord API](https://jda.wiki/), a Minecraft Server (play.creators-smp.com), and random Minecraft Plugins as a part of [ADHDMC](https://github.com/ADHDMC). I will sometimes Pull Request random things to other Open Source Software that I use.
 
-🌱 I’m currently learning Unsupervised Machine Learning and AutoEncoders in an Internship!
+🌱 I’m currently learning CyberSecurity on IBM SkillsBuild and the Forge and Fabric Minecraft Modding APIs on my free time!
 
 💬 Ask me about a Minecraft Server owned and developed by my friend [Rhythmic](https://github.com/RhythmicSys) and I!
 

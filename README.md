@@ -30,7 +30,7 @@ If you are looking for my school work, look no further than this little spoiler 
 
 ## GitHub's "Ideas To Get You Started"
 
-🔭 I’m currently working on a personal Discord bot using the [Java Discord API](https://jda.wiki/), a Minecraft Server (play.creators-smp.com), and random Minecraft Plugins as a part of [ADHDMC](https://github.com/ADHDMC). I will sometimes Pull Request random things to other Open Source Software that I use.
+🔭 I’m currently working on a personal Discord bot using the [Java Discord API](https://jda.wiki/), a Minecraft Server (play.creators-smp.com), and random Minecraft Plugins as a part of [Simplexity Development](https://github.com/Simplexity-Development). I will sometimes Pull Request random things to other Open Source Software that I use.
 
 🌱 I’m currently learning CyberSecurity on IBM SkillsBuild and the Forge and Fabric Minecraft Modding APIs on my free time!
 

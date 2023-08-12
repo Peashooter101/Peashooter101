@@ -28,6 +28,11 @@ If you are looking for my school work, look no further than this little spoiler 
   | Introduction to Operating Systems | [Semaphores Dungeon](https://github.com/Giacalone-CECS/lab-assignment-2-semaphores-Peashooter101) | C | Provided with an object file representing a dungeon, develop 4 programs, the game driver and 3 character threads, to explore the dungeon. The game driver will spawn the 3 character threads. These character threads must receive signals from the object file to perform their respective actions and at the end, use semaphores to lock out a section of memory.
 </details>
 
+## Organizations
+
+[<img src='https://github.com/Peashooter101/Peashooter101/assets/20095065/36a9a0a7-a6ae-42a5-b322-c55a7d3c2413' width='60px'>](https://github.com/Simplexity-Development)
+
+
 ## GitHub's "Ideas To Get You Started"
 
 🔭 I’m currently working on a personal Discord bot using the [Java Discord API](https://jda.wiki/), a Minecraft Server (play.creators-smp.com), and random Minecraft Plugins as a part of [Simplexity Development](https://github.com/Simplexity-Development). I will sometimes Pull Request random things to other Open Source Software that I use.

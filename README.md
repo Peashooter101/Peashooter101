@@ -6,7 +6,27 @@ I used to work in the US Air Force as a Hydrualics Systems Maintenance Technicia
 
 > **Note**
 > 
-> Minecraft got me into the world of Computer Science, so special thanks to Daniel Ratcliffe and his mod [ComputerCraft](https://en.wikipedia.org/wiki/ComputerCraft) for sparking an interest that changed my life back in 2012.
+> Minecraft got me into the world of Computer Science, so special thanks to Daniel Ratcliffe and his mod [ComputerCraft](https://www.computercraft.info/) for sparking an interest that changed my life back in 2012.
+
+## Stuff I Have Worked On
+
+### School Work
+
+If you are looking for my school work, look no further than this little spoiler tag. This is not everything I did but should show some examples of the stuff I did. Some of these are private for school related reasons.
+
+<details>
+  <summary>Some of my school projects.</summary>
+  
+  | Class | Assignment | Language(s) | Summary |
+  | --- | --- | --- | --- |
+  | Databases | [Key Hook Project](https://github.com/Maxi-Garcia/CECS_323_Semester_Project) | Python, PostgreSQL, MongoDB | Following a provided set of business requirements, create an `ERD` to model the structure and associations of a Key Hook Management Database. Implement an application that utilizes the `PostgreSQL` database with `SQLAlchemy`, then reimplement the same application but utilizing the `MongoDB` database with `PyMongo`.
+  | Principles of Programming Languages | [CECS 342 Assignments](https://github.com/Peashooter101/CSULB_CECS-342) | C, C++, C#, Haskell, Prolog, Python | Each of the assignments is described in the provided repository, focusing on how each language differs in performing similar tasks such as Sorting, Functional Programming, and Generic Programming. |
+  | Object Oriented Application Development | [Pokemon Project](https://github.com/Peashooter101/CSULB_CECS-277_Pokemon_Project) | Java | Following a provided Class Diagram, develop an application that takes advantage of various Design Patterns and Collections within `Java`. |
+  | Introduction to Software Engineering | [TERA](https://github.com/Peashooter101/CSULB_CECS-343_TERA) | Java, JSON | Following a provided set of business requirements, plan out and develop an application for managing tenants, expenses, rent, and annual reports for a rental property. The project takes advantage of `Maven` and the `Jackson API` for `JSON` Serialization.
+  | Introduction to Cyber Security | [Malware Hacking](https://github.com/Giacalone-CECS/cecs-478-sp23-01-lab--malware-sst-Peashooter101) | Machine Code | Using a Hex Editor, find the hidden password and bypass the password check in the provided binary file for the game Super Star Trek. This assignment required using a `Hex Editor` to read and edit the binary file. Bypassing the binary file is accomplished through changing the `machine code` instructions.
+  | Introduction to Cyber Security | [Arbitrary Code Execution](https://github.com/Giacalone-CECS/cecs-478-sp23-04-lab--buffer-overflow-Peashooter101) | Assembly, Machine Code | Provided with a program that has a buffer overflow vulnerabilty, cause the program to launch a separate terminal. This assignment required using `gdb` to debug and examine assembly code and a `Hex Editor` to create a file containing binary instructions to be fed into the program. This assignment is based on [Smashing the Stack for Fun and Profit](http://phrack.org/issues/49/14.html).
+  | Introduction to Operating Systems | [Semaphores Dungeon](https://github.com/Giacalone-CECS/lab-assignment-2-semaphores-Peashooter101) | C | Provided with an object file representing a dungeon, develop 4 programs, the game driver and 3 character threads, to explore the dungeon. The game driver will spawn the 3 character threads. These character threads must receive signals from the object file to perform their respective actions and at the end, use semaphores to lock out a section of memory.
+</details>
 
 ## GitHub's "Ideas To Get You Started"
 

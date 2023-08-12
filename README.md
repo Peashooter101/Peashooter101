@@ -30,7 +30,7 @@ If you are looking for my school work, look no further than this little spoiler 
 
 ## Organizations
 
-[<img src='https://github.com/Peashooter101/Peashooter101/assets/20095065/36a9a0a7-a6ae-42a5-b322-c55a7d3c2413' width='60px'>](https://github.com/Simplexity-Development)
+[<img src="https://raw.githubusercontent.com/Simplexity-Development/.github/main/organization_resources/assets/logos/organization/simplexity-development-576x576.png" alt="Simplexity Development Logo" height="60px">](https://github.com/Simplexity-Development)
 
 
 ## GitHub's "Ideas To Get You Started"

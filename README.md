@@ -19,6 +19,7 @@ If you are looking for my school work, look no further than this little spoiler 
   
   | Class | Assignment | Language(s) | Summary |
   | --- | --- | --- | --- |
+  | Algorithms | [Programming Assignments 1-5](https://github.com/Peashooter101/CSULB_CECS-328) | Java | Each of the assignments is described in the provided repository, focusing on different techniques such as Recursion, Divide and Conquer, and Dynamic Programming.
   | Databases | [Key Hook Project](https://github.com/Maxi-Garcia/CECS_323_Semester_Project) | Python, PostgreSQL, MongoDB | Following a provided set of business requirements, create an `ERD` to model the structure and associations of a Key Hook Management Database. Implement an application that utilizes the `PostgreSQL` database with `SQLAlchemy`, then reimplement the same application but utilizing the `MongoDB` database with `PyMongo`.
   | Principles of Programming Languages | [CECS 342 Assignments](https://github.com/Peashooter101/CSULB_CECS-342) | C, C++, C#, Haskell, Prolog, Python | Each of the assignments is described in the provided repository, focusing on how each language differs in performing similar tasks such as Sorting, Functional Programming, and Generic Programming. |
   | Object Oriented Application Development | [Pokemon Project](https://github.com/Peashooter101/CSULB_CECS-277_Pokemon_Project) | Java | Following a provided Class Diagram, develop an application that takes advantage of various Design Patterns and Collections within `Java`. |

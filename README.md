@@ -33,6 +33,11 @@ If you are looking for my school work, look no further than this little spoiler 
 
 [<img src="https://raw.githubusercontent.com/Simplexity-Development/.github/main/organization_resources/assets/logos/organization/simplexity-development-576x576.png" alt="Simplexity Development Logo" height="60px">](https://github.com/Simplexity-Development)
 
+## Pea's Tech Stack
+
+These are things I have worked on or learned during my time running around, from Languages to APIs to Cloud Platforms to Databases and more.
+
+[![Pea's Tech Stack](https://skillicons.dev/icons?i=aws,azure,bash,c,codepen,bots,cpp,cs,css,eclipse,gcp,git,github,gitlab,gradle,haskell,html,idea,java,js,linux,lua,md,maven,mongodb,nodejs,postgres,postman,python,regex,replit,spring,tensorflow,twitter,unity,vim,visualstudio,vscode,vue)](https://github.com/tandpfun/skill-icons)
 
 ## GitHub's "Ideas To Get You Started"
 

@@ -37,7 +37,7 @@ If you are looking for my school work, look no further than this little spoiler 
 
 These are things I have worked on or learned during my time running around, from Languages to APIs to Cloud Platforms to Databases and more.
 
-[![Pea's Tech Stack](https://skillicons.dev/icons?i=aws,azure,bash,c,codepen,bots,cpp,cs,css,eclipse,gcp,git,github,gitlab,gradle,haskell,html,idea,java,js,linux,lua,md,maven,mongodb,nodejs,postgres,postman,python,regex,replit,spring,tensorflow,twitter,unity,vim,visualstudio,vscode,vue)](https://github.com/tandpfun/skill-icons)
+[![Pea's Tech Stack](https://skillicons.dev/icons?i=aws,azure,bash,c,codepen,bots,cpp,cs,css,eclipse,gcp,git,github,gitlab,gradle,haskell,html,idea,java,js,linux,lua,md,maven,mongodb,nodejs,postgres,postman,powershell,python,regex,replit,spring,tensorflow,twitter,unity,vim,visualstudio,vscode,vue)](https://github.com/tandpfun/skill-icons)
 
 ## GitHub's "Ideas To Get You Started"
 

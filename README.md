@@ -4,7 +4,7 @@ I am a student currently studying for a Bachelor's of Computer Science. I like [
 
 I used to work in the US Air Force as a Hydrualics Systems Maintenance Technician for the [KC-135 Stratotanker](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/1529736/kc-135-stratotanker/). Y'know, the flying gas stations in the sky!
 
-> **Note**
+> [!Note]
 > 
 > Minecraft got me into the world of Computer Science, so special thanks to Daniel Ratcliffe and his mod [ComputerCraft](https://www.computercraft.info/) for sparking an interest that changed my life back in 2012.
 

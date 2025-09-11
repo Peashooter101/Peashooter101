@@ -1,6 +1,6 @@
 # 👋 Welcome Everyone! My name is Peashooter101!
 
-I am a student currently studying for a Bachelor's of Computer Science. I like [Minecraft](https://www.minecraft.net/en-us) far too much and you will catch me on a few other video games like [Valorant](https://playvalorant.com/en-us/) and [Genshin Impact](https://genshin.hoyoverse.com/en/). While video games are clearly a huge interest in my life, I actually want to find my way into Software Development / Engineering or Cyber Security.
+I am a student currently studying for a Bachelor's of Computer Science. I like [Minecraft](https://www.minecraft.net/en-us) far too much and you will catch me on a few other video games. I currently work as a software developer!
 
 I used to work in the US Air Force as a Hydrualics Systems Maintenance Technician for the [KC-135 Stratotanker](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/1529736/kc-135-stratotanker/). Y'know, the flying gas stations in the sky!
 
@@ -39,7 +39,7 @@ If you are looking for my school work, look no further than this little spoiler 
 
 These are things I have worked on or learned during my time running around, from Languages to APIs to Cloud Platforms to Databases and more.
 
-[![Pea's Tech Stack](https://skillicons.dev/icons?i=aws,azure,bash,c,codepen,bots,cpp,cs,css,eclipse,gcp,git,github,gitlab,gradle,haskell,html,idea,java,js,linux,lua,md,maven,mongodb,nodejs,postgres,postman,powershell,python,regex,replit,spring,tensorflow,terraform,twitter,unity,vim,visualstudio,vscode,vue)](https://github.com/tandpfun/skill-icons)
+[![Pea's Tech Stack](https://skillicons.dev/icons?i=aws,azure,bash,c,codepen,bots,cpp,cs,css,docker,dotnet,eclipse,gcp,git,github,gitlab,gradle,haskell,html,idea,java,js,linux,lua,md,maven,mongodb,nodejs,postgres,postman,powershell,python,react,regex,replit,spring,tensorflow,terraform,twitter,unity,vim,visualstudio,vscode,vue)](https://github.com/tandpfun/skill-icons)
 <!--
 
 ## GitHub's "Ideas To Get You Started"

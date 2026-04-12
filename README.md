@@ -32,7 +32,7 @@ If you are looking for my school work, look no further than this little spoiler 
 
 ## Organizations
 
-[<img src="https://raw.githubusercontent.com/Simplexity-Development/.github/main/organization_resources/assets/logos/organization/simplexity-development-576x576.png" alt="Simplexity Development Logo" height="60px" width="60px">](https://github.com/Simplexity-Development)
+[<img src="https://github.com/Simplexity-Development/.github/blob/main/profile/avatar.png?raw=true" alt="Simplexity Development Logo" height="60px" width="60px">](https://github.com/Simplexity-Development)
 [<img src="https://github.com/PeaBrained-Education/.github/blob/main/assets/org/pea-pfp-4.png" alt="PeaBrained Education Logo" height="60px" width="60px">](https://github.com/PeaBrained-Education)
 
 ## Pea's Tech Stack
